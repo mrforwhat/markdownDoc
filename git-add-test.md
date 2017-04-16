@@ -29,3 +29,4 @@
 替换本地改动
 * 一不小心改坏了别人的代码又半天没察觉到改了哪块，还原下 <pre>git checkout --[flieName]</pre>
 * 强推 获取最新版本，强行指定本地主分支 <pre>git fetch origin ; git reset --hard origin/master</pre>
+* 测试merge
