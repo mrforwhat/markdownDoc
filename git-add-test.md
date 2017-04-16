@@ -9,3 +9,5 @@
 
 * 将新增的文件添加到缓存区(和svn一样) <pre>git add <filename> /  git add * </pre>
 * 提交代码到head <pre>git commit -m "描述信息"，团队开发中，还是有必要写下改了什么东东的</pre>
+
+推送git push
